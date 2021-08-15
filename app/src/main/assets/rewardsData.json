@@ -1,0 +1,25 @@
+
+[
+  {
+    "channel": "SPORTS",
+    "reward": "CHAMPIONS_LEAGUE_FINAL_TICKET"
+  },
+  {
+    "channel": "KIDS",
+    "reward": null
+  },
+  {
+    "channel": "MUSIC",
+    "reward": "KARAOKE_PRO_MICROPHONE"
+  },
+  {
+    "channel": "NEWS",
+    "reward": null
+  },
+  {
+    "channel": "MOVIES",
+    "reward": "PIRATES_OF_THE_CARIBBEAN_COLLECTION"
+  }
+]
+
+

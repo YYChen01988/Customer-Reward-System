@@ -1,0 +1,10 @@
+[
+  {
+    "account_number": "123",
+    "reward_eligibility": true
+  },
+  {
+    "account_number": "456",
+    "reward_eligibility": false
+  }
+]
