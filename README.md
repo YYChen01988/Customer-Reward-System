@@ -1,6 +1,6 @@
 # Customer-Reward-System
 
-## Basic Information
+### Basic Information
 
 Please use below information to chcek rewards
 
